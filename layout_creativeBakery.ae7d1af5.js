@@ -1,0 +1,2 @@
+"use strict";let burgerMenu=document.querySelector(".header__burger_menu"),navMenu=document.querySelector(".header__menu"),body=document.querySelector("body");burgerMenu.addEventListener("click",()=>{navMenu.classList.toggle("header__menu--active"),burgerMenu.classList.toggle("header__burger_menu--active"),body.classList.toggle("menu_open")});
+//# sourceMappingURL=layout_creativeBakery.ae7d1af5.js.map
